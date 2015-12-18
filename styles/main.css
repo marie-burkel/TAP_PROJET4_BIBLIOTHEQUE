@@ -1,4 +1,5 @@
 
+
 @media screen and (max-width: 625px)
 {
 /* propriétés pour mobile */
@@ -7,8 +8,12 @@
 {
 /* propriétés pour tablette */
 }
-
-
+body {
+	background: white;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+} /* Made with http://icomoon.io/ */
 
 /*
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
@@ -72,8 +77,6 @@ url('webfont.ttf')  format('truetype'),
   overflow: auto;
 font-size: 10em;
 font-family: 'MixKitsch';
-
-
  }
 
  #premierepage div {
